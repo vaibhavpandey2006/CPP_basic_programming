@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1723707872 source:c:\users\18pan\onedrive\desktop\cpp geeks\basiccpp\main.cpp
+	<iostream>
+	"join_p.h"
+
+1723705442 c:\users\18pan\onedrive\desktop\cpp geeks\basiccpp\join_p.h
+
+1723700620 source:c:\users\18pan\onedrive\desktop\cpp geeks\basiccpp\swap_numbers.cpp
+	"join_p.h"
+
+1723700620 source:c:\users\18pan\onedrive\desktop\cpp geeks\basiccpp\datatype_size.cpp
+	<iostream>
+	"join_p.h"
+
+1723700620 source:c:\users\18pan\onedrive\desktop\cpp geeks\basiccpp\multiply_float.cpp
+	"join_p.h"
+
+1723701805 source:c:\users\18pan\onedrive\desktop\cpp geeks\basiccpp\char_ascii_value.cpp
+	"join_p.h"
+
+1723703190 source:c:\users\18pan\onedrive\desktop\cpp geeks\basiccpp\celsius_fahrenheit.cpp
+	"join_p.h"
+
+1723703190 source:c:\users\18pan\onedrive\desktop\cpp geeks\basiccpp\simple_interest.cpp
+	<iostream>
+	"join_p.h"
+
+1723703830 source:c:\users\18pan\onedrive\desktop\cpp geeks\basiccpp\compound_interest.cpp
+	<iostream>
+	"join_p.h"
+	<cmath>
+
+1723704299 source:c:\users\18pan\onedrive\desktop\cpp geeks\basiccpp\rectangle_area.cpp
+	<iostream>
+	"join_p.h"
+	<cmath>
+
+1723707484 source:c:\users\18pan\onedrive\desktop\cpp geeks\basiccpp\largest_inthree.cpp
+	<iostream>
+	"join_p.h"
+	<cmath>
+
+1723705007 source:c:\users\18pan\onedrive\desktop\cpp geeks\basiccpp\even_odd.cpp
+	<iostream>
+	"join_p.h"
+	<cmath>
+
+1723708071 source:c:\users\18pan\onedrive\desktop\cpp geeks\basiccpp\vowel_consont.cpp
+	<iostream>
+	"join_p.h"
+	<cmath>
+
